@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## Note: Generally null safety error occurs due to changed in SDK version, should not run with *flutter run* rather *flutter run --no-sound-null-safety". Have not done for iOS
+#### Note: Generally null safety error occurs due to changed in SDK version, should not run *flutter run* rather *flutter run --no-sound-null-safety". Have not done for iOS
