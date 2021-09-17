@@ -1,3 +1,4 @@
+import 'package:ar_face_filters/pages/camera_mask_filter_page.dart';
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 
@@ -12,7 +13,8 @@ class _SplashScreenPageState extends State<SplashScreenPage> {
   @override
   Widget build(BuildContext context) {
    return SplashScreen(
-     seconds: 10,
+     seconds: 3,
+     navigateAfterSeconds: CameraMaskFilterPage(),
      title: Text(
        'AR  Face  Masks  App',
        style: TextStyle(
