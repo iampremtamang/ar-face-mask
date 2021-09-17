@@ -1,5 +1,4 @@
-# ar_face_filters
-
+# AR Face Mask Filters
 A new Flutter project.
 
 ## Getting Started
